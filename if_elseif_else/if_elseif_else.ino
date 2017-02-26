@@ -1,9 +1,9 @@
 /*****************************************************************
 **                                                              **
-**                       TÍTOL:                                 **
-**         Titol                                                **
+**                       TÍTOL: if/ else if/ else               **
+**                 Titol: utilitzar funcions de control         **
 **                                                              **
-**  NOM: JOSE MARIA GIL FLORES              DATA:XX/XX/XXXX     **
+**  NOM: JOSE MARIA GIL FLORES              DATA:20/02/2017     **
 *****************************************************************/
 
 //********************* INCLUDE  *********************************
