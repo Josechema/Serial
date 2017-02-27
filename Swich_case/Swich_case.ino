@@ -17,7 +17,7 @@ int sensorReading = 2 ; // tenim la variable 2
 
 void setup() {             // configura el final de la salida
   Serial.begin(9600);     // activem serie a 9600 bauds
-  Serial.print ("the day is"); // sempre imprimirem( "the dayis")
+  Serial.print ("the day is "); // sempre imprimirem( "the dayis")
 
   switch (sensorReading)// casos valor de la variable sensorReading
   {

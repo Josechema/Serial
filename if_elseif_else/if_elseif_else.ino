@@ -10,7 +10,7 @@
 
 
 //********************* VARIABLES ********************************
-int tempAigua = 5;
+int tempAigua = 100;
 
 //*********************** SETUP **********************************
 
@@ -27,7 +27,7 @@ void setup() {             // configura el final de la salida
   }
   else if ( tempAigua == 100)
   {
-    Serial.print("Aigua apunt de bullir");
+    Serial.print("Aigua a 100C");
   }
   else if ( tempAigua > 100)
   {
